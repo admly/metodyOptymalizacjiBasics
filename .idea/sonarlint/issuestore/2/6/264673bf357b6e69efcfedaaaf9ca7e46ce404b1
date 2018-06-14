@@ -1,0 +1,8 @@
+
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(æäíËþÿÿÿÿ
+Nsquid:S1854"9Remove this useless assignment to local variable "calki".(©¡è×
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ŠãÿÜ
+?squid:S1481"*Remove this unused "calki" local variable.(©¡è×
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(«Ï¡º

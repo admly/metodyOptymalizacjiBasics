@@ -1,0 +1,11 @@
+
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡×è˜
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(˜ïƒº
+Usquid:S1854"@Remove this useless assignment to local variable "interpolacja".(Žþ’‹
+Rsquid:S1197"8Move the array designator from the variable to the type.(¡Ø¡ðûÿÿÿÿ
+Rsquid:S1197"8Move the array designator from the variable to the type.(Â¼°ÿýÿÿÿÿ
+Msquid:S1197"8Move the array designator from the variable to the type.(‡×è˜
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(­…ž’
+Fsquid:S1481"1Remove this unused "interpolacja" local variable.(Žþ’‹
